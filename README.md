@@ -12,6 +12,7 @@
 * Title for gamertags or names. 
 
 ## Examples
-[Example 00](https://www.youtube.com/watch?v=B8vfM_2_Eog)
-[Example 01](https://youtu.be/dl_Lsx_KKMA)
-[Example 02](https://youtu.be/HjOIDVWves0)
+* [Example 00](https://www.youtube.com/watch?v=B8vfM_2_Eog)  
+* [Example 01](https://youtu.be/dl_Lsx_KKMA)  
+* [Example 02](https://youtu.be/HjOIDVWves0)  
+
